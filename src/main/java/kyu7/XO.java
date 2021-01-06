@@ -1,4 +1,4 @@
-package kyu_7;
+package kyu7;
 
 // Exes and Ohs
 
